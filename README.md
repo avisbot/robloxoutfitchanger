@@ -79,7 +79,7 @@ const cookie = ".ROBLOSECURITY=inputcookie" // Paste your cookie here
 
 Run the script with:
 ```bash
-node index.js
+node change.js
 ```
 
 The script will:
